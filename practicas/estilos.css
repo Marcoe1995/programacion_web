@@ -1,0 +1,20 @@
+
+/* un comentario en css */
+	font-size: 40px;
+	color: red;
+}
+#titulo{
+	background-color:black;
+	color:white;
+	text-shadow:;
+}
+.colorRojo{
+	color:red;
+}
+.colorAmarillo{
+	color:yellow;
+}
+
+.colorAzul{
+	color:blue;
+}
