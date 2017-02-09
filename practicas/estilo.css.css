@@ -1,0 +1,47 @@
+<! Doctype html>
+  <html>	
+	  <head>
+	  	<meta  charset="stylesheet" hreat ="css/estilo.css">
+	  	<link rel="stylesheet" href="css/estilo.css">
+	  </head>
+
+	  <body>
+	  	<div class="header-container">
+	  		<header class = "container clearfix">
+	  			<h1 class="title">h1.title</h1>
+	  			<hav>
+	  				<ul>
+	  				<li><a href="#">hav ul li a </a></li>
+	  				<li><a href="#">hav ul li a </a></li>
+	  				<li><a href="#">hav ul li a </a></li>
+	  				</ul>
+	  			</hav>
+	  		</header>
+	  	</div><!-- div header de container-->
+	  		<div class = "container clearfix">
+	  			<article>
+	  				<header>
+	  						<h1>article header h1</h1>
+	  						<p>copiar y pegar texto aqui</p>
+	  				</header>
+	  				<section>
+	  					<h2>article section h1</h2>
+	  						<p> texto</p>
+	  			    </section>
+	  			    	<footer>
+	  			    		<h3>article footer h3</h3>
+	  			    		<p>texto</p>
+	  			    	</footer>
+	  			</article>
+	  			<aside>
+	  				<h3> asi de</h3>
+	  				<p> </p>
+	  			</aside>
+	  		</div><!--fin div .main-->
+	  		<div class=" footer-container">
+	  			<footer class="container">
+	  				<h3>footer</h3>
+	  			</footer>
+	  		</div>
+	  </body>
+</html>
