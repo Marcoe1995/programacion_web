@@ -7,6 +7,24 @@ select, texarea {
  	line-height: 1.4px;
  	font: 16px Helvetica 
  }
+ h1{
+ 	font-family: 'Barrio', cursive;
+ 	background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#8664FF), to(#FF4E28))
+
+ }
+ h2{
+ 	font-family: 'Barrio', cursive;
+    font-family: 'Caveat Brush', cursive;
+    background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#866400), to(#FF4E28))
+ }
+ h3{
+ 	font-family: 'Barrio', cursive;
+font-family: 'Caveat Brush', cursive;
+font-family: 'Indie Flower', cursive;
+background:-webkit-gradient(linear, 80% 20%, 10% 21%, from(#FFFFFF), to(#FF4E28))
+
+ }
+ }
  hr{
  	display: block;
  	height: 1px;
